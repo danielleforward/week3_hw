@@ -1,5 +1,6 @@
 int margin = 43;
 
+
 void setup() {
   size(820, 820); // Set the size of the canvas
   background(255); // Set background color to white
